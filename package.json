@@ -1,0 +1,20 @@
+{
+  "name": "shripal_metal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barkhaahuja101/shripal_metal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barkhaahuja101/shripal_metal/issues"
+  },
+  "homepage": "https://github.com/barkhaahuja101/shripal_metal#readme"
+}

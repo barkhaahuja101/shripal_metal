@@ -1,1 +1,0 @@
-# shripal_metal
